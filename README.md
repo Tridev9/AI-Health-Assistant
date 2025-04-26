@@ -83,12 +83,12 @@ An AI-powered health assistant that provides symptom analysis, medical recommend
 
 ## 🌐 Supported Languages
 
-English
+   English
 
-Hindi (हिंदी)
+   Hindi (हिंदी)
 
-Telugu (తెలుగు)
+   Telugu (తెలుగు)
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+   This project is licensed under the MIT License - see the LICENSE file for details.
